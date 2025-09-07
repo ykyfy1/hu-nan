@@ -2,7 +2,7 @@ name: CaijiHunanip
 
 on:
   schedule:
-    - cron: "30 19 * * *"
+    - cron: "05 19 * * *"
   workflow_dispatch:
 
 jobs:
